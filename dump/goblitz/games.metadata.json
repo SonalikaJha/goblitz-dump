@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"goblitz.games"}],"uuid":"f00f3318d02b45559ebbbf755f649332"}

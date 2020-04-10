@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"lso_crm.leadtypes"},{"v":{"$numberInt":"2"},"key":{"code":{"$numberInt":"1"}},"name":"code_1","ns":"lso_crm.leadtypes","background":true}],"uuid":"dd6fecda7482417bb944eda018998565"}

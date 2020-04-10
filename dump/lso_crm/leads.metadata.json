@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"lso_crm.leads"}],"uuid":"b9fb09d92e784ee9bf3c29d40a51dc13"}
